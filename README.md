@@ -1,0 +1,2 @@
+# qtworks-csscore
+CssCore Library
